@@ -1,0 +1,6 @@
+{
+  "name": "MenuMunch – Restaurant Menus and Prices in Pakistan",
+  "description": "Search a restaurant or a dish, choose your city, and see the full menu with prices across Pakistan. Independent restaurant menu directory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
